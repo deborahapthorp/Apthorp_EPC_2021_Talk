@@ -709,5 +709,5 @@ The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](https://yih
 
 Talk (+ data & code) will be available on my website shortly
 
----
+
 
