@@ -191,7 +191,7 @@ options(htmltools.dir.version = FALSE)
 Image credit: [Schitt's Creek](https://www.poptv.com/schittscreek)
 
 ---
-class: center, middle
+class: center, middle, inverse
 
 # Running studies online
 
