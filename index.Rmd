@@ -526,7 +526,7 @@ corrplot(as.matrix(e$r), type = "upper", order = "hclust",
 - **Shift work** did NOT affect **sleep quality** or **depression** (but underpowered)
 
 ---
-background-image: url("images/island.png")
+background-image: url("images/Farm2.png")
 background-size: cover
 class: center, bottom, inverse
 
